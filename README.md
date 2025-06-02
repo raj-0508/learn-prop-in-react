@@ -4,6 +4,10 @@ This project is a beginner-level **React.js** demo where I learned how to use **
 
 ---
 
+## 🚀 Live Preview 👉 [View Live](https://learn-prop-in-react.vercel.app/)
+
+
+
 ## 📚 What I Learned
 
 ### ✅ 1. Props in React
@@ -112,3 +116,6 @@ This mini project helped me understand:
 
 It’s a great starting point in learning **component-based architecture** in React.
 
+# Screenshot
+
+![image](Screenshot.png)
